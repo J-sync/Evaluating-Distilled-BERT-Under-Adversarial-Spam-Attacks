@@ -1,4 +1,4 @@
-# BERT Distillation for Spam Classification with Adversarial Attacks
+# Transfer Learning Vulnerability Analysis Using BERT
 
 This project explores knowledge distillation from a BERT teacher model to a lightweight student model for binary spam classification. It also evaluates model robustness through adversarial email perturbations using word substitutions.
 
